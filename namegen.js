@@ -1,6 +1,5 @@
+
 var randString = require('randString');
-const condition = true;
-const answer = "";
 const readline = require('readline').createInterface({
     input: process.stdin,
     output: process.stdout
