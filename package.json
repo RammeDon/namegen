@@ -1,0 +1,26 @@
+{
+  "name": "namegen",
+  "version": "1.0.0",
+  "main": "namegen.js",
+  "scripts": {
+    "start": "node run.js",
+    "dev": "nodemon run.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "randstring": "^0.0.0",
+    "readline": "^1.3.0",
+    "start": "^5.1.0",
+    "randString": "^1.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "description": "gamer tag generator",
+  "keywords": [
+    "gamertag"
+  ],
+  "author": "Ramin",
+  "license": "ISC"
+}
